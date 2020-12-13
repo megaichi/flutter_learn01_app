@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>380351247783-1o4rbbteggan7eqoikscu2rc1un9bgkj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.380351247783-1o4rbbteggan7eqoikscu2rc1un9bgkj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNBJivvIiHFyRbf83uGBb3D-5V1Dw44F8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>380351247783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>team.gthree.firebase200825</string>
+	<key>PROJECT_ID</key>
+	<string>leleletest-ac429</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leleletest-ac429.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:380351247783:ios:e3bcea6a3a6a7070d4b282</string>
+	<key>DATABASE_URL</key>
+	<string>https://leleletest-ac429.firebaseio.com</string>
+</dict>
+</plist>

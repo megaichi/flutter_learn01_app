@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>446784247440-lbpe31elssv55reijqttk65ihdtg4f9u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.446784247440-lbpe31elssv55reijqttk65ihdtg4f9u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6qInayA1GJymlPLvKi3EGYZg3hniclK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>446784247440</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>team.gthree.leleleProto1a</string>
+	<key>PROJECT_ID</key>
+	<string>lelele-proto1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lelele-proto1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:446784247440:ios:b636f756ada6d98fd92a15</string>
+	<key>DATABASE_URL</key>
+	<string>https://lelele-proto1.firebaseio.com</string>
+</dict>
+</plist>

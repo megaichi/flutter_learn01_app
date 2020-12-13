@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "446784247440",
+    "firebase_url": "https://lelele-proto1.firebaseio.com",
+    "project_id": "lelele-proto1",
+    "storage_bucket": "lelele-proto1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446784247440:android:e9f4105c9df9de49d92a15",
+        "android_client_info": {
+          "package_name": "team.gthree.lelele_proto1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446784247440-bhpkjodqdimei9hmkta6egh3igg1g567.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.gthree.lelele_proto1",
+            "certificate_hash": "8f9e7dbeb39b981486196bd440ba1174edc58cbe"
+          }
+        },
+        {
+          "client_id": "446784247440-duk10l76rb509j0vo3lhei5qdie24c50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.gthree.lelele_proto1",
+            "certificate_hash": "b8729002638bc0dc4ede8ca9f4aa40351c3f8548"
+          }
+        },
+        {
+          "client_id": "446784247440-hd6munk0jg6aspgvf367r9oq07njjcq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7kvqb9ZQmR0tiV4sFdE65CP1hOF1d0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446784247440-hd6munk0jg6aspgvf367r9oq07njjcq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446784247440-lbpe31elssv55reijqttk65ihdtg4f9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "team.gthree.leleleProto1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

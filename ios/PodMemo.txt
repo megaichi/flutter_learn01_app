@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/62423247/cocoapods-could-not-find-compatible-versions-for-pod-googledatatransport-when-in
+
+pod deintegrate
+sudo gem install cocoapods-clean
+pod clean
+pod setup
+pod install
+
+# Project root
+$ open ios/Runner.xcworkspace
